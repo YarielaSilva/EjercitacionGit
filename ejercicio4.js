@@ -1,2 +1,3 @@
 let holaMundo= "Hola mundo";
-console.log(holaMundo);
+let nombre= "Samuel";
+console.log(holaMundo + " soy " + nombre);
